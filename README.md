@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>La tecnología educativa como apoyo para la enseñanza de Matemáticas I</title>
+https://youtu.be/kkGCnvhTq3Q
   <style>
     body { font-family: Arial, Helvetica, sans-serif; line-height:1.6; margin: 0; padding: 20px; color:#222; background:#f7f9fc; }
     header { background:#003366; color:#fff; padding:20px; border-radius:6px; }
