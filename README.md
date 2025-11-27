@@ -27,12 +27,14 @@
 <header>
   <h1>La tecnología educativa como apoyo para la enseñanza de Matemáticas I</h1>
   <p>Ing. Lourdes Marlen López Reyna — Monterrey, Nuevo León. Noviembre 2025</p>
-</header>
-<iframe width="560" height="315" 
-src="[https://www.youtube.com/embed/CÓDIGO_DEL_VIDEO](https://llopezmarlen22-web.github.io/exparcial-matematicas-I/)" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<section id="videoconferencia1">
+    <h2>Videoconferencia 1</h2>
+
+    <iframe width="560" height="315" 
+        src="https://youtu.be/kkGCnvhTq3Q" 
+        frameborder="0" allowfullscreen>
+    </iframe>
+</section>
 <nav>
   <a href="#bloque1">Datos e Introducción</a>
   <a href="#bloque2">Videoconf. Análisis</a>
@@ -70,11 +72,15 @@ Este Proyecto Final busca no solo cumplir con los requerimientos académicos, si
   <p><strong>Introducción:</strong> Presentación, objetivo y contexto (DGB y Escamilla).</p>
   <p><strong>Desarrollo:</strong> Enfoque general, estructura por bloques (I: Números reales; II: Modelación y funciones; III: Factorización y ecuaciones cuadráticas), correspondencia contenidos-competencias y relevancia para el perfil de egreso.</p>
   <p><strong>Cierre:</strong> Conclusión sobre la función formativa de la asignatura y su relación con recursos tecnológicos.</p>
-  <iframe width="560" height="315" 
-src="[[https://www.youtube.com/embed/CÓDIGO_DEL_VIDEO](https://llopezmarlen22-web.github.io/exparcial-matematicas-I/)](https://youtu.be/EaonJaN7HJI)" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+ <section id="videoconferencia1">
+    <h2>Videoconferencia 1</h2>
+
+    <iframe width="560" height="315" 
+        src="https://youtu.be/EaonJaN7HJI" 
+        frameborder="0" allowfullscreen>
+    </iframe>
+</section>
+
 </section>
 
 <!-- BLOQUE 3 -->
