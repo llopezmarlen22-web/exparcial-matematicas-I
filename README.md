@@ -236,31 +236,6 @@
     <li>Khan Academy. (2024). <em>Álgebra</em>. https://es.khanacademy.org/math/algebra</li>
   </ul>
 </section>
-
-<!-- GENERAR ARCHIVOS -->
-<section id="generar-archivos">
-  <h2>Cómo generar los archivos PDF y Word desde la página web</h2>
-
-  <h3>1. Generar PDF</h3>
-  <ol>
-    <li>Abre la página en tu navegador (Chrome, Edge o Firefox).</li>
-    <li>Presiona <strong>Ctrl + P</strong> (Windows) o <strong>Cmd + P</strong> (Mac).</li>
-    <li>En "Destino" selecciona <em>Guardar como PDF</em>.</li>
-    <li>Configura orientación y márgenes según prefieras y haz clic en <strong>Guardar</strong>.</li>
-  </ol>
-
-  <h3>2. Generar Word (DOCX)</h3>
-  <ol>
-    <li>Selecciona el contenido de la página (Ctrl + A).</li>
-    <li>Copia (Ctrl + C) y abre Microsoft Word.</li>
-    <li>Pega (Ctrl + V) y ajusta formato si es necesario.</li>
-    <li>Guarda como <em>.docx</em>.</li>
-  </ol>
-
-  <p class="small">Consejo: si subes el PDF al repositorio (Add file → Upload files) puedes enlazarlo desde aquí para descarga directa.</p>
-</section>
-
-<footer>
   <p class="small">Proyecto Final — Impacto del Uso de la Tecnología en el Aprendizaje — Ing. Lourdes Marlen López Reyna</p>
 </footer>
 
