@@ -97,9 +97,13 @@ Semestre: Primero
 Área: Matemáticas
 Duración: Un semestre
 Modalidad: Dirección General del Bachillerato (DGB)
+
+
 ________________________________________
 ✅ 1. Propósito general del curso
 Desarrollar en el estudiante la capacidad de comprender, representar y resolver problemas mediante el uso del lenguaje algebraico, la modelación de funciones y el análisis de ecuaciones, fortaleciendo el pensamiento lógico-matemático necesario para continuar su formación académica y aplicarlo en situaciones reales.
+
+
 ________________________________________
 ✅ 2. Competencias que desarrolla la asignatura
 Competencias genéricas
@@ -118,9 +122,12 @@ El estudiante:
 •	Aplica razonamiento inductivo y deductivo.
 •	Maneja argumentos matemáticos con precisión.
 ________________________________________
+
+
 ✅ 3. Organización del programa por bloques
 La asignatura se organiza en tres bloques, cada uno con aprendizajes esperados y contenidos específicos.
 ________________________________________
+
 📍 BLOQUE I: Números reales y operaciones algebraicas
 Propósito del bloque
 Fortalecer el manejo de los números reales, sus propiedades y las operaciones fundamentales del álgebra como base para los contenidos posteriores.
@@ -145,10 +152,12 @@ o	Ecuaciones de primer grado con una variable.
 o	Método algebraico.
 o	Aplicación en problemas reales.
 ________________________________________
+
 📍 BLOQUE II: Modelación algebraica y funciones
 Propósito del bloque
 Desarrollar la capacidad de representar y analizar relaciones mediante funciones lineales y cuadráticas, comprendiendo su comportamiento en contextos matemáticos y cotidianos.
 Aprendizajes esperados
+
 El estudiante:
 •	Reconoce una función a partir de tablas, gráficas o expresiones algebraicas.
 •	Interpreta variaciones y relaciones de dependencia entre variables.
@@ -157,18 +166,22 @@ El estudiante:
 •	Representa funciones lineales y cuadráticas en el plano cartesiano.
 •	Identifica elementos clave de la función cuadrática.
 Contenidos
+
 1.	Concepto de función
 o	Dominio y rango.
 o	Representación algebraica, tabular y gráfica.
+
 2.	Función lineal
 o	Pendiente e intercepto.
 o	Modelación de situaciones reales.
 o	Gráficas y análisis de variación.
+
 3.	Función cuadrática
 o	Forma general y forma canónica.
 o	Parábola, vértice y eje de simetría.
 o	Aplicaciones y gráficas.
 ________________________________________
+
 📍 BLOQUE III: Factoreo y ecuaciones cuadráticas
 Propósito del bloque
 Fortalecer la capacidad de manipular expresiones algebraicas mediante diferentes tipos de factorización y resolver ecuaciones cuadráticas mediante diversos métodos.
@@ -182,11 +195,13 @@ o	fórmula general,
 o	completación del trinomio cuadrado perfecto.
 •	Aplica la función cuadrática para resolver problemas.
 Contenidos
+
 1.	Técnicas de factorización
 o	Factor común.
 o	Trinomio cuadrado perfecto.
 o	Diferencia de cuadrados.
 o	Trinomio general.
+
 2.	Ecuaciones cuadráticas
 o	Forma general.
 o	Métodos de solución.
