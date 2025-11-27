@@ -43,7 +43,6 @@ allowfullscreen></iframe>
   <a href="#bloque7">Recursos tecnológicos</a>
   <a href="#bloque8">Videoconf. Tecnología</a>
   <a href="#bloque9">Bibliografía</a>
-  <a href="#generar-archivos">Generar PDF/Word</a>
 </nav>
 
 <!-- BLOQUE 1 -->
